@@ -11,7 +11,7 @@
  * be provided as command line arguments to the executable.
  * 
  * The run can be stopped at any time by hitting CTRL-C.
-*/
+ */
 
 #include <stdbool.h>
 #include <stdio.h>
